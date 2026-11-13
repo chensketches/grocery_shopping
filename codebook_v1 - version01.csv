@@ -1,0 +1,18 @@
+SPEECH ACT,definition,言语行为 (SPEECH ACT),定义
+complaint,"expression that something (related to the supermarket or the experience) is wrong, unsatisfactory, or not good enough; default label for negative content",投诉 (complaint),表达对某事物（与超市或购物体验相关）的不满、认为其有问题或不够好；这是针对负面内容的默认标签。
+praise,expression that approves or favours something (related to the supermarket or the experience); default label for positive content but sarcastic comments do not count,表扬 (praise),表达对某事物（与超市或购物体验相关）的认可或好感；这是针对正面内容的默认标签（讽刺性评论不计入此类）。
+warning_appeal,"expression that addresses other customers, advising them against something (related to the supermarket or the experience) or addresses the supermarket, demanding a change; usually start with imperative",警告/诉求 (warning_appeal),针对其他顾客提出建议（劝阻其进行某项行为），或针对超市提出要求（要求其做出改变）；通常以祈使句开头。
+other,"information without evaluation, insult, degrading description, irony, etc.",其他 (other),不含评价的信息，或包含侮辱、贬低性描述、反讽等内容。
+TARGET,,对象 (TARGET),
+staff,"service, friendliness, etc.",员工 (staff),服务、友好程度等。
+checkout,"queues, self-checkouts, etc.",结账 (checkout),排队情况、自助结账等。
+price,"value, receipt, etc.",价格 (price),商品价值、小票/收据等。
+quality,"freshness, spoilage, etc.",质量 (quality),新鲜度、变质情况等。
+availability,"empty shelves, out-of-stock items, etc.",供应情况 (availability),货架空置、商品缺货等。
+company,"chain policy, app, etc. *Der beste Rewe-Laden in Bremen",公司 (company),连锁店政策、应用程序 (App) 等。
+other,"space, crowding, parking, security, opening hours, etc.",其他 (other),空间、拥挤程度、停车、安保、营业时间等。
+EMOTIONAL INTENSITY,,情感强度 (EMOTIONAL INTENSITY),
+0,"neutral, informative",0,中立，仅提供信息。
+1,mild („leider etwas teuer“),1,轻微（例如：“有点贵”）。
+2,"marked: evaluative adjectives, „!“, „sehr ...“",2,明显：包含评价性形容词、“!”、程度副词（如“非常……”）等。
+3,"extreme: caps, „!!!“, insults, „Katastrophe“, „unterste Schublade“",3,极端：包含全大写字母、“!!!”、侮辱性言辞，或使用“灾难”、“极其糟糕”等强烈负面词汇。

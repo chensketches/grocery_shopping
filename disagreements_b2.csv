@@ -1,0 +1,54 @@
+﻿review_id,text_de,c1_speech_act,c2_speech_act,c1_target,c2_target,c1_intensity,c2_intensity
+8912d36f9344,"Unfreundliches und freches Personal! Kundenservice ist hier ein Fremdwort. Nicht zu empfehlen!
+Sehr enttäuscht — das Personal ist extrem unfreundlich und respektlos gegenüber Kunden.",complaint,complaint,staff,staff,2_strong,3_extreme
+e84954c3dc65,"Das was ich hole ist immer da, ab und zu sprechen sie mich auf Russisch an, aber ich verstehe kein Wort 🤣
+Sind eigentlich immer hilfsbereit und freundlich, besonders die Sonnenblumenkerne sind immer vorrätig",praise,praise,staff,company,2_strong,2_strong
+be214587492b,Frischetheke könnte besser sein,other,complaint,quality,quality,0_none,1_mild
+1cce1e55a071,"Das ist jetzt schon das vierte Mal, dass ich hier einkaufe, und die Preise im Laden stimmen nicht mit denen im Regal überein. Glaubt ihr etwa, ihr klaut eure Kunden? Wie kann man denn bitte den doppelten Preis für ein Angebot zahlen? Bei einem Produkt haben sie einen Fehler gemacht, und beim zweiten auch noch. Nächstes Mal wende ich mich an die Polizei und den Verbraucherschutz. Es ist einfach unverschämt, Kunden mit solchen Preisen abzuzocken! 🤬🤬🤬",warning_appeal,complaint,price,price,3_extreme,3_extreme
+c1a6e0917d58,Es ist okay,other,praise,other,company,0_none,0_none
+ad3681102037,"Also Online steht geöffnet bis 21 Uhr, ich stand um 19:52 vor Alnatura. Der Mitarbeiter hatte schon ein Schild in die Tür gestellt und mehrere Kunden abgewiesen. Ich habe dann gesagt dass ich Dringend Pre Nahrung brauche, da wurde dann weiter Diskutiert und der Satz „dann muss man mal eher einkaufen gehen“ ist gefallen. Der Herr kann gerne probieren mit einem Kinderwagen plus Baby durch die verschneiten Fußwege zu kommen, ich musste allerdings bis Abends auf jmd warten der sich um das Baby kümmert damit ich einkaufen gehen kann.
+Nach 4 x Fragen wurde ich dann doch noch reingelassen. Ich habe 19 Sekunden gebraucht um reinzugehen, die Pre Nahrung zu holen, an der SB Kasse zu bezahlen und den Laden zu verlassen. Da hat das Diskutieren ob er mich reinlässt länger gedauert Ich weiß die Mitarbeiter möchten pünktlich Feierabend machen, aber 8 Min vorher schon Kunden abweisen finde ich Fragwürdig. Vllt sollte man auch online die Öffnungszeiten anpassen.",complaint,complaint,staff,availability,1_mild,1_mild
+98a3d2be867f,"kostenlose, bequeme Parkplätze.",praise,praise,other,availability,1_mild,1_mild
+4337c45b87d2,"Ein interessanter Ort für kleine Lebensmitteleinkäufe, saubere und neue Einrichtung, recht großer Parkplatz, frisches Brot",other,praise,other,quality,0_none,1_mild
+9e3618013478,Nichts besonderes fast wie jeder Lidl-Markt.,other,other,company,company,0_none,1_mild
+d30125eddf4c,"Das Personal und die Preise im Markt sind gut, aber jedes Mal, wenn ich Fleisch beim Metzger gekauft habe, war es schlecht. Alles andere ist gut, nur der Metzger nicht.",complaint,complaint,quality,staff,1_mild,2_strong
+0a76fe0af55f,"Der Supermarkt ist toll, aber der Parkplatz wird überwacht, war 1 h 45 Minuten da, hab Ticket von 25 Euro bekommen, das war teures Kaffee trinken beim Bäcker, schade, es gibt auch andere gute Supermärkte, wo sowas nicht passiert",complaint,complaint,other,availability,2_strong,2_strong
+9866e7ac0324,"Die Parkplatzsuche ist eine Katastrophe... und dann muss ich auch noch eine Strafe zahlen, weil ich keinen Strafzettel ausgedruckt habe...",complaint,complaint,other,availability,3_extreme,2_strong
+e282c3f83cad,"Ich mag den Laden und das Sortiment aber das Personal muss besser geschult werden. Stehen in Gruppen vor Regalen an denen man ran möchte und unterhalten sich lange. Währenddessen ist nur eine Person an der Kasse, die so unter Druck kassiert, dass man mit dem einpacken garnicht hinterher kommt.",complaint,complaint,staff,staff,1_mild,2_strong
+f546414ea8f0,"Sauber, übersichtlich, alles gute Qualität",praise,praise,quality,company,1_mild,2_strong
+a701c2de6b16,"Nur die Preise für Grün sind gut.
+Sonst ist es teuer.",other,complaint,price,price,0_none,1_mild
+6b2681cff725,"Viele Möglichkeiten, tolle Produkte, allerdings etwas teuer.",other,complaint,price,price,1_mild,1_mild
+7bce8aa6a0cc,"Meine persönliche Bewertung, da ich in der Nähe bin. Ehrlich gesagt ist der Laden fast immer überfüllt, und mir tun die Angestellten wirklich leid. Die Arbeitsbelastung scheint für das diensthabende Personal unzumutbar zu sein. Sie wirken anfangs etwas ruppig, aber ehrlich gesagt sind sie meistens sehr effizient. Mir kommt es so vor, als hätten in letzter Zeit viele Mitarbeiter gekündigt. Ich hoffe wirklich, dass es nicht an den Arbeitsbedingungen liegt, sonst könnte der Standort in Zukunft Probleme bekommen.",other,warning_appeal,staff,company,1_mild,2_strong
+468e5439132b,Sie können zu günstigen Preisen kaufen.,other,praise,price,price,0_none,2_strong
+a2cb85aef551,Sehr sehr gut,other,praise,other,company,3_extreme,2_strong
+d3e69800e5ec,"Was mir an diesem Supermarkt gefällt: Das Gemüse ist saisonal und „deutsch“. Man kann hier wirklich den großen Wocheneinkauf erledigen, da der Rundgang gut optimiert ist (Gemüse, Milchprodukte, Pasta etc.). Normalerweise sind Biomärkte sehr schlecht organisiert und überteuert. Dieser Supermarkt hat jedoch ziemlich vernünftige Preise.",other,praise,quality,quality,1_mild,1_mild
+fb0713486637,Die Sortimente sind etwas weniger,complaint,complaint,availability,quality,1_mild,1_mild
+26d8fdf48a55,Pfui Deibel trotz Attest Maskenzwang willkommen im Faschismus,warning_appeal,complaint,other,company,2_strong,3_extreme
+4775d8a10fe1,"Alles ist lecker und frisch, aber auch teuer. Der Laden sieht ein bisschen aus wie ein Gemischtwarenladen; er könnte eine Renovierung vertragen.",other,complaint,price,company,0_none,2_strong
+30fe4c7f3f4e,Es hat ein neues Design und eine gute Platzierung der Produkte in unmittelbarer Nähe der Straßenbahnhaltestelle.,other,praise,other,company,0_none,1_mild
+60c9a3ac8548,Russische Produkte sind im Angebot,other,praise,price,company,0_none,1_mild
+3323f987ee89,Gut erreichbar und netter Service,praise,praise,staff,company,1_mild,2_strong
+b461a72614a1,Frische Obst und Gemüse,praise,praise,quality,quality,0_none,1_mild
+66d333c8d0db,"Ist mir alles zu gesund. Der Grüne Tee ist mit Apfelsaft gestreckt, abscheulicher Geschmack. Hätte eine bessere Qualität erwartet.",complaint,complaint,quality,quality,1_mild,2_strong
+6b0dea18548d,"Aldi halt, gut und günstig",praise,praise,company,company,1_mild,2_strong
+df1fece761d1,"Habe mir dort Bioknabbersachen gekauft,die ich bei uns im Edeka Markt,nicht Bekomme. Geht aber nur nach einem Werderspiel ,sa ich in Bremen Blumenthal wohne. Leider gibt es hier Kein Alnatura Geschäft.",other,complaint,company,other,0_none,1_mild
+586743fa63c3,"Ich gehe gern dorthin, vor allem wegen der Produkte. Die Leute sind immer gut gelaunt. Die Preise sind nicht die günstigsten, aber Bio-Produkte sind nun mal teurer.",praise,praise,staff,quality,1_mild,1_mild
+f1d203ea8039,"Ein typisch russischer Laden in Bremen. Wer sich nach heimischen Produkten sehnt, kann hier seine Lieblingsleckereien genießen. Köstliches Obst und Gemüse, das sich deutlich von deutschen Sorten unterscheidet.",praise,praise,availability,quality,1_mild,2_strong
+3738acd6285e,Nicht die wahre bio,complaint,complaint,quality,quality,0_none,3_extreme
+6daca46cf8b2,"Achtung Abzocke.
+Danke für die faire Parkplatznutzung.
+Mich sieht ihr dort nicht wieder.",warning_appeal,complaint,other,availability,1_mild,2_strong
+fc670df66372,Mix Markt ist im Vergleich zu anderen Supermärkten teurer.,complaint,complaint,price,price,1_mild,2_strong
+f5a2cc7a9a98,"Ich gehe hier einkaufen wegen der Lage, gerne gehe ich wirklich nicht hin..
+gefühlte 80% der Mitarbeitenden sind leider sehr unfreundlich und ruppig. Oftmals auch vermehrt gegenüber Menschen mit vermeintlichem Migrationshintergrund.. Ich habe mehrfach beobachtet das Kunden angeschrien worden sind, unter anderem Kinder, die nicht genügend Geld für ihren Einkauf dabei hatten.
+
+An die wirklich netten anderen Mitarbeitenden der Filiale richtet sich meine Bewertung explizit NICHT!",complaint,complaint,staff,company,2_strong,3_extreme
+432a76c1c976,Unfreundlich nie wieder hin,warning_appeal,complaint,staff,company,2_strong,3_extreme
+a3b2c030fa9b,Die Preise sind sehr gut.,other,praise,price,price,2_strong,2_strong
+1492005376cb,"Hier finden Sie alles, was Sie für den täglichen Bedarf benötigen, zu günstigen Preisen.",praise,praise,price,price,0_none,2_strong
+92835bc60988,Aussenden renoviert. Innen ein wenig schmuddelig. Gute Auswahl an Obst und Gemüse.,complaint,praise,other,quality,1_mild,2_strong
+1a667c29d3f2,Russenladen gute Auswahl,praise,praise,availability,quality,1_mild,2_strong
+43b5ec0778fd,"Vorsicht! Verdorbenes Fleisch und schlechter Service
+
+""Ich habe hier Fleisch gekauft, das bereits nach einer Stunde verdorben war und übel roch. Trotz Rechnung und offensichtlichem Problem weigerte sich der Verkäufer, die Rücknahme anzuerkennen. Er bezweifelte zunächst die Rechnung (die angeblich „alt“ sei) und beharrte darauf, dass das Fleisch in Ordnung wäre. Erst nach Druck druckte er eine neue Rechnung – mit falschem Datum! Der Umgang war unfreundlich und respektlos. Offenbar wird hier systematisch schlechtes Fleisch verkauft. Absolut nicht zu empfehlen!",warning_appeal,complaint,quality,quality,2_strong,3_extreme
